@@ -12,3 +12,5 @@ int main(){
 ```
 
 veya direk 2 dosyayıda kopyalayıp `index.c` yi çalıştırmanız yeterli olacaktır.
+
+Sınavda başarılar dilerim :) 
