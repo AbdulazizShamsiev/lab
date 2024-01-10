@@ -2,6 +2,8 @@
 
 ✔️ Tüm laboratuvar soruları ve whatsapp sorular hepsi bir dosya içerisinde ve fonksiyon halinde hazir poşetlenmiş halde duruyor kendi dosyanız çağırmanız için `functions.h` dosyasını kopyalamanız ve kendi c programınızda kullanmanız yeterli.
 
+✔️ Bu kullanımda  c dilinde fonksuyonları ve onların nasıl ayrı kütüphane dosyasında (.h) tutulduğunu ve başka dosya üzerinden çağırılabileceğinizi öğrenmiş olursunuz.
+
 Örnek kullanım: 
 ```sh
 #include <stdio.h>
